@@ -1,3 +1,5 @@
+#### ⚠️ This project has been moved to [albinpk/flutter-whatsapp-clone](https://github.com/albinpk/flutter-whatsapp-clone#readme)
+
 # WhatsApp
 
 A WhatsApp UI clone in flutter (work in progress).
@@ -37,7 +39,7 @@ A working [web demo ↗️][weblink]
 - [visibility_detector](https://pub.dev/packages/visibility_detector)
 - [picsum.photos](https://picsum.photos)
 
-[weblink]: https://albinpk.github.io/flutter-clones
+[weblink]: https://albinpk.github.io/flutter-whatsapp-clone
 
 ## Screenshots
 
