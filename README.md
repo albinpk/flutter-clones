@@ -10,7 +10,7 @@ Flutter Clones
 </p>
 </h1>
 
-## [WhatsApp](./000-whatsapp#readme)
+## [WhatsApp](https://github.com/albinpk/flutter-whatsapp-clone#readme)
 
 | Mobile | Desktop | Web |
 | :----: | :-----: | :-: |
